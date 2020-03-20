@@ -1,8 +1,8 @@
 # Please upload and download models here
 
 # Abiogenix Models
-- Fusion 360 link to CAD models
 - Goutam Reddy (greddy@abiogenix.com)
+- Fusion 360 links to CAD models
 
 1) nasopharyngeal swab round V1:  https://a360.co/2wpGHui
    - featureless bristle: 1.25mm diameter shaft
