@@ -8,6 +8,6 @@
    
 
 
-# Wyss Models
+# Wyss Institute Models
 - *find author contact info*
 - *find link to original model files*
