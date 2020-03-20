@@ -12,8 +12,6 @@ The files in this repo contain some information to get started. **This includes 
 
 If anyone has any questions, please reach out to any of the contributors here or to Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
-This is a team effort with already dozens of people involved from all over the country, including industry, academia, and just members of the public, none looking for thanks or recognition, helping out just because they can.
-
 Anything you find here is free for use for all.
 
 
