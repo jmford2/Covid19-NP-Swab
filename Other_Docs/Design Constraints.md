@@ -26,30 +26,30 @@ PCR/Assay Compatability
 
 ## Safe: 
 
-PC, 
-PVC, 
-PP, 
-PTFE, 
-wax with melting point ≥80°C, 
-SiO2 quartz, 
-Pyrex glass, 
-soda-lime glass, 
-NOA68, 
-mineral oil
+- PC, 
+- PVC, 
+- PP, 
+- PTFE, 
+- wax with melting point ≥80°C, 
+- SiO2 quartz, 
+- Pyrex glass, 
+- soda-lime glass, 
+- NOA68, 
+- mineral oil
 
-##Unsafe: 
+## Unsafe: 
 
-PMMA, (incompatible with PCR)
-wax with melting point <80°C, (incompatible with PCR)
-silicon, (incompatible with PCR)
-SO2 5600Å, (incompatible with PCR)
-ITP glass, (incompatible with PCR)
-SU-8, (incompatible with PCR)
-NOA61, (incompatible with PCR)
-epoly glue, (incompatible with PCR)
-acrylic glue (incompatible with PCR)
+- PMMA, (incompatible with PCR)
+- wax with melting point <80°C, (incompatible with PCR)
+- silicon, (incompatible with PCR)
+- SO2 5600Å, (incompatible with PCR)
+- ITP glass, (incompatible with PCR)
+- SU-8, (incompatible with PCR)
+- NOA61, (incompatible with PCR)
+- epoly glue, (incompatible with PCR)
+- acrylic glue (incompatible with PCR)
 
-##Source:
+## Source:
 
 Kodzius et al [paper](kodzius2012.pdf): Inhibitory effect of common microfluidic materials on PCR outcome
 
