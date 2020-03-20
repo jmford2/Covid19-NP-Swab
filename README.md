@@ -32,7 +32,7 @@ Anything you find here is free for use for all.
 
 <img src="img/nasopharynx-child.png" width=40%><img src="img/commercial-swab.png" width=25%><img src="img/commercial-swabs.png" width=25%>
 
-<img src="img/copan_flocked_swab_macro.png" width="60%"><img src="img/copan_flocked_swab_micro_1.png" width=38%>
+<img src="img/copan_flocked_swab_macro.png" width="59.5%"><img src="img/copan_flocked_swab_micro_1.png" width=38%>
 
 <!--
 
@@ -106,13 +106,7 @@ Product numbers are listed. Unless otherwise stated, these are from the [FDA app
 
 (2a) Repurposing existing materials, including cosmetics applicators or "loops" used in microbiology
 
-For more detail on ideas not yet investigated, see **Other Approaches** (link to come)
-
-### Scrounging, Repurposing
-
-...but just a word about scrounging and repurposing. There are lots of swabs used for various things floating around hospitals, outpatient clinics, private practices, and so on. **Be creative and ask everyone you know. That's what we've been doing and it's gotten us thousands of swabs.** This is a stopgap at best, but every swab counts.
-
-Will a repurposed swab work? Find someone who uses NP swabs, take pictures of what you find, and ask that person to weigh in on suitability. (We've been asking our respiratory care personnel.) In practice, as long as the materials are not wood or cotton, there's a chance you've got something usable. **If you find something that works, please tell us,** along with how you know it works, and we'll post it.
+For more detail on ideas not yet investigated, see [Other Approaches](Other_Docs/Repurposing_Approach.md)
 
 ### Manufacturing
 
