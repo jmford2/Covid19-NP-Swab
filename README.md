@@ -32,6 +32,8 @@ Anything you find here is free for use for all.
 
 ![Copan 480C](swab_images/copan_flocked_swab_macro.png)
 
+<img src="img/nasopharynx-child.png" width=250>
+
 ![Copan 480C closeup](img/nasopharynx-child.png | width=250)
 
 ![Copan 480C closeup](swab_images/copan_flocked_swab_micro_1.png | width=250)
