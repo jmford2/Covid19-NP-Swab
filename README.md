@@ -30,11 +30,7 @@ Anything you find here is free for use for all.
 <a name="design"></a>
 ## Basic description of an NP swab
 
-<img src="img/nasopharynx-child.png" width=30%>
-
-<img src="img/commercial-swab.png" width=30%>
-
-<img src="img/commercial-swabs.png" width=30%>
+<img src="img/nasopharynx-child.png" width=30%><img src="img/commercial-swab.png" width=30%><img src="img/commercial-swabs.png" width=30%>
 
 ![Copan 480C](swab_images/copan_flocked_swab_macro.png)
 
