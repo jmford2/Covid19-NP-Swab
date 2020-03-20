@@ -90,7 +90,17 @@ Product numbers are listed. Unless otherwise stated, these are from the [FDA app
 <a name="approaches"></a>
 ## Approaches
 
-There are three main approaches to solving this crisis: (1) scrounging, (2) repurposing existing materials, and (3) manufacturing. This repo is mostly about (3)...
+Approaches under investigation:
+
+(1a) 3D printing a shaft, and attaching flock material via adhesive
+
+(1b) 3D printing a shaft with enough definition---either "nubs" along the surface or bristles---to gather secretion from the nasopharynx.
+
+Other Approaches:
+
+(2a) Repurposing existing materials, including cosmetics applicators or "loops" used in microbiology
+
+For more detail on ideas not yet investigated, see (link to other .md file)
 
 ### Scrounging, Repurposing
 
