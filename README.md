@@ -12,6 +12,8 @@ The files in this repo contain some information to get started. **This includes 
 
 If anyone has any questions, please reach out to any of the contributors here or to Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
+This is a team effort with already dozens of people involved from all over the country, including industry, academia, and just members of the public, none looking for thanks or recognition, helping out just because they can.
+
 Anything you find here is free for use for all.
 
 
@@ -58,7 +60,7 @@ The distance along the handle where the scoring occurs depends on the vial you u
 
 -	Wand must break off inside the tube – better to be too short than too long.  Wand could be manually scored to create a weak point
 
-For more technical requirements, see [Design Constraints](https://github.com/HMS-RIC/Covid19-NP-Swab/blob/master/Constraints/Design%20Constraints.md)
+For more technical requirements, see [Design Constraints](Other_Docs/Design%20Constraints.md)
 
 <a name="not-reqs"></a>
 ## NOT required
