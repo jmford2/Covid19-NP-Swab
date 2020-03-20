@@ -32,7 +32,7 @@ Anything you find here is free for use for all.
 
 <img src="img/nasopharynx-child.png" width=40%><img src="img/commercial-swab.png" width=25%><img src="img/commercial-swabs.png" width=25%>
 
-<img src="img/copan_flocked_swab_macro.png" width="55%"><img src="img/copan_flocked_swab_micro_1.png" width=40%>
+<img src="img/copan_flocked_swab_macro.png" width="60%"><img src="img/copan_flocked_swab_micro_1.png" width=38%>
 
 <!--
 
