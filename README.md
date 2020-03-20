@@ -136,6 +136,14 @@ We believe the best use of resources is to be creative around copying the templa
 *(1)* Denier/dtex is a unit of measurement (*grams* per 9,000 *meters*) that the fabric industry uses. Denier is American; dtex is European. If the material had a different density from nylon but was of the same diameter, its denier measurement would be different.
 
 
+
+<a name="shaft"></a>
+## Shaft
+
+This is the easiest part to 3D-print.
+
+It should be able to be easily broken off, so that only the tip with the patient's nasal secretion is in a specimen container.  Easy break-off may be accomplished via scoring.
+
 <a name="adhesive"></a>
 ## Adhesive
 
