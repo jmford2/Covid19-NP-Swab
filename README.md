@@ -55,7 +55,9 @@ The distance along the handle where the scoring occurs depends on the vial you u
 
 
 <a name="reqs"></a>
-## Requirements
+# Requirements
+
+## Medical Requirements
 
 -	Wand is stiff enough to push to the back of the nasal cavity but flexible enough to get up the nose and will bend when it hits resistance instead of stabbing people (for reference, swabs are a little more flexible than the tiny straws used for coffee, and somewhat similar to the inside tube that holds the ink when you take apart a Bic ballpoint pen)
 
@@ -70,7 +72,7 @@ The distance along the handle where the scoring occurs depends on the vial you u
 For more technical requirements, see [Design Constraints](Other_Docs/Design%20Constraints.md)
 
 <a name="not-reqs"></a>
-## NOT required
+## Anti-Requirements: What's not required.
 
 -	Sterility. Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
 
@@ -96,21 +98,15 @@ Product numbers are listed. Unless otherwise stated, these are from the [FDA app
 <a name="approaches"></a>
 ## Approaches
 
-#Approaches under investigation:
+- 3D printing a shaft, and attaching flock material via adhesive
 
-(1a) 3D printing a shaft, and attaching flock material via adhesive
+- 3D printing a shaft with enough definition---either "nubs" along the surface or bristles---to gather secretion from the nasopharynx.
 
-(1b) 3D printing a shaft with enough definition---either "nubs" along the surface or bristles---to gather secretion from the nasopharynx.
+For more detail on ideas not yet investigated, including repurposing unrelated items like cosmetics applicators, or using other items common in labs, see [Other Approaches](Other_Docs/Repurposing_Approach.md)
 
-#Other Approaches:
+### Manufacturing: 3D-printed Shaft + Adhesive + Swab
 
-(2a) Repurposing existing materials, including cosmetics applicators or "loops" used in microbiology
-
-For more detail on ideas not yet investigated, see [Other Approaches](Other_Docs/Repurposing_Approach.md)
-
-### Manufacturing
-
-The consensus of a fair bit of thinking on our part is the simplest high-throughput approach is **3D printing**:
+The following may be the simplest high-throughput approach:
 
 - 3D print a wand with the appropriate form factor (e.g. see the picture above and the .stl files)
 - dip bulb in adhesive (we are working on appropriate adhesives)
@@ -120,14 +116,7 @@ The consensus of a fair bit of thinking on our part is the simplest high-through
 
 If this sounds like how you'd solve this problem if you were still in elementary school, you're right. This is basically decorating Easter eggs (if you started with a 3D-printed Easter egg). Currently we have no proven way to automate the last three steps so we are envisioning a "student army," as mentioned above. **If you've got a better idea, now's the time.**
 
-There are several alternatives being tried:
-
-- We are looking into using small urine loops as shafts; we don't yet have a solution for how to apply a swab end. Will post if we do. At least there are usually very many of these around in clinical microbiology laboratories
-- Printing a bristled head is a no-go for conventional 3D printers, as the features are too small. It is possible that a sand-blasted/chemically etched/otherwise roughened bulb *might* work, but we are not doing research here: we're looking for our best bet for a sure thing
-- Mascara brushes. The consensus so far is, the materials might be right but the brushes are far too large/widely spaced. Again, they *might* work, but see above
-
-Again, we believe the best use of resources is to be creative around copying the template, not redesigning swabs.
-
+We believe the best use of resources is to be creative around copying the template, not redesigning swabs.
 
 <a name="flock"></a>
 ## Flock
@@ -151,8 +140,13 @@ Again, we believe the best use of resources is to be creative around copying the
 ## Adhesive
 
 
-Coming soon
+This will need to adhere the two substances (printed shaft + flock), will need to be biocompatible, and will need to not leave behind anything in the nasal cavity / nasopharynx when used.
 
+
+<a name="packaging"></a>
+## Packaging
+
+As we get closer to having swabs, we will want a solution for packaging. Ideally at least semi-sterile, definitely single-swab packaging. Thoughts on throughputting that?
 
 <a name="contact"></a>
 ## Contact us
