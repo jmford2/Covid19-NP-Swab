@@ -22,3 +22,5 @@
 # Wyss Institute Models
 - *find author contact info*
 - *find link to original model files*
+1) nasopharyngeal swab helix: *find link to model*
+2) nasopharyngeal swab linear balls: *find link to model* 
