@@ -1,5 +1,4 @@
 These swabs were printed using HP MJF 3D printing technology at Fathom Studios in Oakland Ca.
-They are of the initial model (nubs).
 
 # Flexibility
 - swabs are quite flexible
