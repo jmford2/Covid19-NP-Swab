@@ -139,7 +139,7 @@ Stereolithography 3D printed prototypes by Carbon and FormLabs look promising (s
 
 - In general acrylic is used as the adhesive for flock, but be aware that acrylic is a **known PCR inhibitor** (see below). Decision point is rinse a lot to remove loose acrylic vs. just use something safer. Apparently Elmer's has something of the same problem.
 
-- The only colors we should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that was thought to be benign; white has titanium inside the fiber but not on the surface. White is the purest nylon. Colored nylons have various ionic or covalent groups on the outside, which are probably not things we want to deal with.
+- The only colors we should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that is assumed to be PCR-safe; white has titanium inside the fiber but not on the surface so is more likely PCR safe. (White is the purest nylon.) Colored nylons have various ionic or covalent groups on the outside, which are unnecessary complications.
 
 - Rayon is also safe to use
 
@@ -233,7 +233,18 @@ For collection of material, you can swirl against the inside of your cheek (make
 <a name="pcr"></a>
 ### PCR compatibility
 
-The idea is to see if anything in the material inhibits the RT-PCR test (details of the reagents differ somewhat from assay to assay; we will post). The protocol for testing is simply to incubate bulb in 3mL Viral Transport Medium (VTM; [recipe courtesy IU](Other_Docs/VTM_IU_recipe.pdf)) overnight, spike the VTM with positive control (ideally, the inactivated Covid-19 particles that are used clinically as the positive control, but really any mRNA should do), aliquot 700µl for testing. Obviously if you use your own mRNA, use primers compatible with that.
+The idea is to see if anything in the material inhibits the RT-PCR test (details of the reagents differ somewhat from assay to assay; we will post). The protocol for testing is simply:
+
+- incubate bulb in 3mL Viral Transport Medium (VTM; [recipe courtesy IU](Other_Docs/VTM_IU_recipe.pdf)) overnight (12 hr)
+- spike the VTM with positive control (*1*)
+- aliquot 700µl for testing
+- run RT-PCR (*2*)
+
+(*1*) If you are working with clinical labs who have the bandwidth, they can use inactivated Covid-19 particles that are used clinically as the positive control any virus. If not, and you are/have access to colleagues in a virology lab working with encapsulated virus, that can be used. If not, then any mRNA.
+
+(*2*) Many protocols and reagents are proprietary, but many hospitals have developed their own laboratory-developed tests (LDTs) that may have made their protocols 
+
+See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-diagnostic-testing-sars-cov-2) for speific testing details.
 
 
 <a name="contact"></a>
