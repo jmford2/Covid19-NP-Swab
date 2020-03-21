@@ -6,8 +6,10 @@
 # Torsional Load (twisting)
 - shaft snapped off at head of bristle
 - define spec for torsional load, add tests in simulation
+<img src="torsional_break.jpeg" width=40%>
 
 
 # Static Load at Tip (bending to break)
 - bends first and bristle to swab shaft interface
 - make break-off-point weaker (test V's, grooves, stress points - in simulation)
+<img src="break_point.jpeg" width=40%>
