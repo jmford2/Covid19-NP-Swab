@@ -124,7 +124,7 @@ For more detail on ideas not yet investigated, including repurposing unrelated i
 
 The ability to print a swab complete with bristles or equivalent saves the steps for requiring adhesive and [flock](#flock). 
 
-Stereolithography 3D printed prototypes by Carbon and FormLabs look promising (see example bulbs, below---note in this approach the whole swab including bulb is printed at once); we are testing materials now.
+Stereolithography 3D printed prototypes by OPT Industries look promising (see example bulbs, below---note in this approach the whole swab including bulb is printed at once, on their own DLP/SLA machines); we are testing materials now.
 <img src="img/carbon_formlabs_bristles.png" width=100%>
 
 
