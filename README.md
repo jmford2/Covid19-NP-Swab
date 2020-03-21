@@ -242,7 +242,7 @@ For collection of material, you can swirl against the inside of your cheek (make
 <a name="pcr"></a>
 ### PCR compatibility
 
-The idea is to see if anything in the material inhibits the RT-PCR test (details of the reagents differ somewhat from assay to assay; we will post). The protocol for testing is simply:
+It is essential to confirm that nothing in the final product (material ± adhesive) inhibits RT-PCR, on which current tests are based (details of the reagents differ somewhat from assay to assay; we will post). The protocol for testing is simply:
 
 - incubate bulb in 3mL Viral Transport Medium (VTM; [recipe courtesy IU](Other_Docs/VTM_IU_recipe.pdf)) overnight (12 hr)
 - spike the VTM with positive control (*1*)
