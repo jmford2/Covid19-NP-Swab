@@ -1,6 +1,6 @@
 # Please upload and download models here
 
-# Abiogenix Models
+## Abiogenix Models
 - Goutam Reddy (greddy@abiogenix.com)
 - Fusion 360 links to CAD models
 
@@ -23,7 +23,7 @@
    - PREFER NOT TO USE MODELS WITH HOLES INSIDE TO REDUCE POST-PROCESSING
 
 
-# Wyss Institute Models
+## Wyss Institute Models
 - *find author contact info*
 - *find link to original model files*
 1) nasopharyngeal swab helix: *find link to model*
