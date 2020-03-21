@@ -1,4 +1,4 @@
-*Last updated: March 20, 2020*
+*Last updated: March 21, 2020*
 
 # Making NP swabs
 
@@ -12,8 +12,6 @@ The files in this repo contain some information to get started. **This includes 
 
 If anyone has any questions, please reach out to any of the contributors here or to Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
-This is a team effort with already dozens of people involved from all over the country, including industry, academia, and just members of the public, none looking for thanks or recognition, helping out just because they can.
-
 Anything you find here is free for use for all.
 
 
@@ -21,10 +19,13 @@ Anything you find here is free for use for all.
 
 - [Basic description of an NP swab](#design)
 - [Requirements](#reqs)
-- [NOT required](#not-reqs)
+- [Anti-requirements: What's not required](#not-reqs)
 - [List of known acceptable swabs](#acceptable-swabs)
-- [Approaches](#approaches)
+- [Manufacturing approaches](#approaches)
 - [Flock](#flock)
+- [Materials and adhesives](#adhesive)
+- [Packaging](#packaging)
+- [Testing](#testing)
 - [Contact](#contact)
 
 <a name="design"></a>
@@ -51,28 +52,29 @@ The bulb looks like it would be fluffy to the touch but it is not: the bristles 
 
 Often the shaft itself has a thin **neck**, for flexibility, and a thicker **handle**. The handle is often **scored**---a weak point in the shaft---where you can break it off so the bristled part stays in the vial; the handle is then thrown away.
 
-The distance along the handle where the scoring occurs depends on the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11.5 cm will do (the 15mL Falcons are listed as 12cm, 50mL as 11.5cm, but we haven't checked yet whether this is interior height or includes the cap).
+**Tl;dr: score at 7 cm from bulb tip.** The location of the score (distance from the bulb along the handle) must be smaller than the height of the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11 cm will do. It is mildly easier for handling if the score is close to the height of the vial but the requirement is that it is less than the height.
 
 
 <a name="reqs"></a>
 # Requirements
 
-## Medical Requirements
+## Medical requirements
 
--	Wand is stiff enough to push to the back of the nasal cavity but flexible enough to get up the nose and will bend when it hits resistance instead of stabbing people (for reference, swabs are a little more flexible than the tiny straws used for coffee, and somewhat similar to the inside tube that holds the ink when you take apart a Bic ballpoint pen)
+-	**Stiffness, flexibility.** Wand is stiff enough to push to the back of the nasal cavity but flexible enough to get up the nose and will bend when it hits resistance instead of stabbing people (for reference, swabs are a little more flexible than the tiny straws used for coffee, and somewhat similar to the inside tube that holds the ink when you take apart a Bic ballpoint pen)
 
--	Ideally, the bulb end is *flocked* (see below): it has lots of tiny bristles perpendicular to the wand (see close-up above). The bristles provide for a high surface-area-to-volume and helps both wick secretions onto the bristle and liberate particles when put in the transport medium. Perpendicularity is a nice-to-have that we believe may improve yield slightly but requires electrostatic deposition; even random orientation of flock should work fine
+-	**Tip.** Ideally, the bulb end is *flocked* (see below): it has lots of tiny bristles perpendicular to the wand (see close-up above). The bristles provide for a high surface-area-to-volume and helps both wick secretions onto the bristle and liberate particles when put in the transport medium. Perpendicularity is a nice-to-have that we believe may improve yield slightly but requires electrostatic deposition; even random orientation of flock should work fine
 
--	Bristles or collecting substrate (including any adhesive) must be firmly attached and not get left behind in the nasal cavity. Similarly no part of the swab should break off or get left in the nasal cavity. We have enough problems with the pandemic already
+-	Bristles or collecting substrate (including any adhesive) must be firmly attached and not get left behind in the nasal cavity. Similarly no part of the swab should break off or get left in the nasal cavity
 
--	Materials cannot inhibit [PCR](https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction). This means no wood or cotton (although we believe rayon is OK; see partial list of PCR inhibitors below). Nylon and polypropylene seem to be good choices, but start with medical equipment/grade materials if possible since they should be high quality/pure (some additives can be inihibitors).
+-	[Materials](#adhesive) cannot inhibit [PCR](https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction). This means no wood or cotton (although we believe rayon is OK). Nylon and polypropylene seem to be good choices, but start with medical equipment/grade materials if possible since they should be high quality/pure (some additives can be inihibitors).
 
--	Wand must break off inside the tube – better to be too short than too long.  Wand could be manually scored to create a weak point
+-	Wand must break off inside the tube – better to be too short than too long.  Wand could be manually scored to create a weak point. If not, might need scissors at point of care (not ideal)
 
 For more technical requirements, see [Design Constraints](Other_Docs/Design%20Constraints.md)
 
+
 <a name="not-reqs"></a>
-## Anti-Requirements: What's not required.
+## Anti-requirements: What's not required
 
 -	Sterility. Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
 
@@ -96,17 +98,17 @@ Product numbers are listed. Unless otherwise stated, these are from the [FDA app
 
 
 <a name="approaches"></a>
-## Approaches
+## Manufacturing approaches
 
-- 3D printing a shaft, and attaching flock material via adhesive
+**We believe the best use of resources is to be creative around copying the template, not redesigning swabs.**
 
-- 3D printing a shaft with enough definition---either "nubs" along the surface or bristles---to gather secretion from the nasopharynx.
+- 3D print a shaft, and attaching flock material via adhesive
+
+- 3D print a shaft with enough definition---either "nubs" along the surface or bristles---to gather secretion from the nasopharynx.
 
 For more detail on ideas not yet investigated, including repurposing unrelated items like cosmetics applicators, or using other items common in labs, see [Other Approaches](Other_Docs/Repurposing_Approach.md)
 
-### Manufacturing: 3D-printed Shaft + Adhesive + Swab
-
-The following may be the simplest high-throughput approach:
+### 3D-print shaft + adhesive + swab
 
 - 3D print a wand with the appropriate form factor (e.g. see the picture above and the .stl files)
 - dip bulb in adhesive (we are working on appropriate adhesives)
@@ -114,16 +116,20 @@ The following may be the simplest high-throughput approach:
 - shake/blow/rinse off excess flock
 - (if needed) dip in 70% ethanol for sterilization
 
-If this sounds like how you'd solve this problem if you were still in elementary school, you're right. This is basically decorating Easter eggs (if you started with a 3D-printed Easter egg). Currently we have no proven way to automate the last three steps so we are envisioning a "student army," as mentioned above. **If you've got a better idea, now's the time.**
+(This is like how you'd solve this problem if you were in elementary school.) Currently we have no proven way to automate the last three steps so we are envisioning a "student army." Better ideas welcome.
 
-We believe the best use of resources is to be creative around copying the template, not redesigning swabs.
+### 3D-print entire swab
+
+The ability to print a swab complete with bristles or equivalent saves the steps for requiring adhesive and [flock](#flock). Some industry colleagues have managed to do this; we will update with details/images as we can.
+
+
 
 <a name="flock"></a>
 ## Flock
 
-"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from extremely helpful conversations with them and Celluseude, the manufacturer. (Please remember your flock manufacturers and distributors this holiday season.)
+"Flock" is the name of the bristle material. It can be ordered from e.g. www.flockit.com as a powder. The below information comes from extremely helpful conversations with them and Celluseude, the manufacturer.
 
-- The nylon flock on the tip of the picture is 3 denier (3 dtex) *(1)*
+- The nylon flock on the tip of the picture is 3 [denier](https://en.wikipedia.org/wiki/Units_of_textile_measurement#Denier) (3 [dtex](https://en.wikipedia.org/wiki/Units_of_textile_measurement#Denier))
 
 - The flock on the flocked swab above was likely applied using electrostatic deposition: flock coated with something positively charged, shaft coated with adhesive and electrically grounded. We do not need to do this: the previous version of swabs, still widely in use, have matted flock and they work well enough (slightly lower sensitivity but clinically for now we'll take it)
 
@@ -132,8 +138,6 @@ We believe the best use of resources is to be creative around copying the templa
 - The only colors we should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that was thought to be benign; white has titanium inside the fiber but not on the surface. White is the purest nylon. Colored nylons have various ionic or covalent groups on the outside, which are probably not things we want to deal with.
 
 - Rayon is also safe to use
-
-*(1)* Denier/dtex is a unit of measurement (*grams* per 9,000 *meters*) that the fabric industry uses. Denier is American; dtex is European. If the material had a different density from nylon but was of the same diameter, its denier measurement would be different.
 
 
 
@@ -144,17 +148,77 @@ This is the easiest part to 3D-print.
 
 It should be able to be easily broken off, so that only the tip with the patient's nasal secretion is in a specimen container.  Easy break-off may be accomplished via scoring.
 
-<a name="adhesive"></a>
-## Adhesive
-
-
-This will need to adhere the two substances (printed shaft + flock), will need to be biocompatible, and will need to not leave behind anything in the nasal cavity / nasopharynx when used.
-
 
 <a name="packaging"></a>
 ## Packaging
 
-As we get closer to having swabs, we will want a solution for packaging. Ideally at least semi-sterile, definitely single-swab packaging. Thoughts on throughputting that?
+As we get closer to having swabs, we will want a solution for packaging. Ideally at least semi-sterile, definitely single-swab packaging.
+
+Possibly will want to fork this process: more sterile for immunocompromised patients, less for others.
+
+Current best thought is to package manually in sterile hoods. Spread and cut plastic wrap, leave under UV light in hood (wil not destroy plastic on the timescales we are talking about), take swab out of ethanol and place horizontally on strip of plastic to dry. **When dry,** fold plastic over swab. Packing done.
+
+Thoughts on throughputting this?
+
+
+<a name="adhesive"></a>
+## Materials and adhesives
+
+Adhesives will need to adhere the two substances (printed shaft + flock) and will need to not leave behind anything in the nasal cavity / nasopharynx when used.
+
+Some materials and adhesives inhibit PCR. See the Kodzius and forensicGEM files for details.
+
+From those files:
+
+### Safe materials (any red bar above \~50 in Kodzius Fig. 3): (*1*)
+- polypropylene
+- PTFE
+- PDMS
+- SiO2 quartz
+- Pyrex glass
+- Soda-lime glass
+- NOA68
+
+### Unsafe materials:
+- PMMA
+- Silicon
+- SiO2 5600A
+- ITO glass
+- SU-8
+- NOA61
+
+### Unknown:
+- metals including steel and aluminum (in principle these stick to polymerase, but the effect size depends on the form factor so we don't know yet)
+
+### Safe adhesives (from Kodzius Fig. 3 and from forensicGEM document Fig. 1):
+- Wax (Tm 80C)
+- the glue used in Scotch Magic Tape 810
+- the glue used in Scotch Crystal Clear Tape
+- the glue used in Scotch Mailing Tape
+- the glue used in Scotch Storage Freezer Tape
+- the glue used in Scotch Transparent Tape 550
+- the glue used in Sellotape Brown Packaging Tape
+- the glue used in Applied Biosystems MicroSeal Adhesive Film
+
+### Unsafe adhesives:
+- Wax (Tm <80C)
+- Epoxy glue
+- Acrylic glue
+- the glue used in Scotch Masking Tape (made in Canada or Taiwan)
+- the glue used in Scotch Removable Magic Tape 811
+- the glue used in Sellotape Diamond Ultra Clear
+- the glue used in Sellotape Invisible Permanent Write-on
+- the glue used in Sellotape Cellulose Easy-Tear Tape
+- the glue used in Sellotape Double-Sided Tape
+- the glue used in 3M PostIt notes
+
+(*1*) Some materials can in principle be used as adhesives, e.g. PDMS
+
+
+<a name="testing"></a>
+## Testing
+
+
 
 <a name="contact"></a>
 ## Contact us
