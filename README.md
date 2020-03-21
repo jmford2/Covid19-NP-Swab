@@ -31,19 +31,11 @@ Anything you find here is free for use for all.
 <a name="design"></a>
 ## Basic description of an NP swab
 
+(Click the below for larger image)
+
 <img src="img/adult_np_swab_procedure.png" width=40%><img src="img/commercial-swab.png" width=20%><img src="img/copan_flocked_swab_micro_1.png" width=40%>
 
 <img src="img/copan_flocked_swab_macro.png" width="100%">
-(Click for larger image)
-
-<!--
-
-![Copan 480C](swab_images/copan_flocked_swab_macro.png)
-
-![Copan 480C closeup](img/nasopharynx-child.png | width=250)
-
-![Copan 480C closeup](swab_images/copan_flocked_swab_micro_1.png | width=250)
--->
 
 An NP swab is a flexible stick around 15cm in length that goes up your nose to the back of the nasal cavity (see [movie](https://www.youtube.com/watch?v=hXohAo1d6tk&feature=youtu.be&t=40)). It is swept or twirled around to brush or wick up secretions, which carry Covid-19 virus particles. The swab comes out of the nose and goes into a vial that contains fluid (viral transport medium). The vial gets capped and sent for processing.
 
