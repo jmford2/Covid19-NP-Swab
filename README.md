@@ -253,7 +253,7 @@ It is essential to confirm that nothing in the final product (material ± adhesi
 
 (*1*) If you are working with clinical labs who have the bandwidth, they can use inactivated Covid-19 particles that are used clinically as the positive control any virus. If not, and you are/have access to colleagues in a virology lab working with encapsulated virus, that can be used. If not, then any mRNA.
 
-(*2*) Many protocols and reagents are proprietary, but many hospitals have developed their own laboratory-developed tests (LDTs) that may have made their protocols 
+(*2*) Many protocols and reagents are proprietary, but many hospitals have developed their own laboratory-developed tests (LDTs) that may have made their protocols publicly available. If you find and [forward](#contact) we will post
 
 See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-diagnostic-testing-sars-cov-2) for speific testing details.
 
