@@ -166,7 +166,7 @@ Thoughts on throughputting this?
 
 Adhesives will need to adhere the two substances (printed shaft + flock) and will need to not leave behind anything in the nasal cavity / nasopharynx when used.
 
-Some materials and adhesives inhibit PCR. See the [Kodzius 2012](Other_Docs/kodzius2012.pdf) and [forensicGEM's work](Other_Docs/forensicGEM_Tissue_AppNote_TapeInhibition.pdf) for details.
+Some materials and adhesives inhibit PCR (see [testing protocol](#pcr) below). See the [Kodzius 2012](Other_Docs/kodzius2012.pdf) and [forensicGEM's work](Other_Docs/forensicGEM_Tissue_AppNote_TapeInhibition.pdf) for details.
 
 From those files:
 
@@ -226,6 +226,7 @@ If you have a [swab to compare](#acceptable-swabs), that is the best way to guag
 
 For collection of material, you can swirl against the inside of your cheek (make sure the swab is clean first), rub on a slide, do a [Gram stain](https://en.wikipedia.org/wiki/Gram_stain), and visualize under a microscope. The viral particles we are looking to collect are smaller than bacteria, but if you collect a fair number of bacteria, that is considered Ok for now (ask a microbiologist or microbiology tech, and we will provide a picture of what we think is acceptable when we can).
 
+<a name="pcr"></a>
 ### PCR compatibility
 
 The idea is to see if anything in the material inhibits the RT-PCR test (details of the reagents differ somewhat from assay to assay; we will post). The protocol for testing is simply to incubate bulb in 3mL Viral Transport Medium (VTM; [recipe courtesy IU](Other_Docs/VTM_IU_recipe.pdf)) overnight, spike the VTM with positive control (ideally, the inactivated Covid-19 particles that are used clinically as the positive control, but really any mRNA should do), aliquot 700µl for testing. Obviously if you use your own mRNA, use primers compatible with that.
