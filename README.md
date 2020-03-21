@@ -62,7 +62,7 @@ Helpful target measurements:
 
 ## Medical requirements
 
--	**Stiffness, flexibility.** Wand is stiff enough to push to the back of the nasal cavity but flexible enough to get up the nose and will bend when it hits resistance instead of stabbing people (for reference, swabs are a little more flexible than the tiny straws used for coffee, and somewhat similar to the inside tube that holds the ink when you take apart a Bic ballpoint pen)
+-	**Stiffness, flexibility.** Wand is stiff enough to push to the back of the nasal cavity but flexible enough to get up the nose and will bend when it hits resistance instead of stabbing people (for reference, swabs are a little more flexible than the tiny straws used for coffee, and somewhat similar to the inside tube that holds the ink when you take apart a Bic ballpoint pen). **Swab must not snap off in patient's nose**
 
 -	**Tip.** Ideally, the bulb end is *flocked* (see below): it has lots of tiny bristles perpendicular to the wand (see close-up above). The bristles provide for a high surface-area-to-volume and helps both wick secretions onto the bristle and liberate particles when put in the transport medium. Perpendicularity is a nice-to-have that we believe may improve yield slightly but requires electrostatic deposition; even random orientation of flock should work fine
 
