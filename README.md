@@ -166,11 +166,11 @@ Thoughts on throughputting this?
 
 Adhesives will need to adhere the two substances (printed shaft + flock) and will need to not leave behind anything in the nasal cavity / nasopharynx when used.
 
-Some materials and adhesives inhibit PCR. See the Kodzius and forensicGEM files for details.
+Some materials and adhesives inhibit PCR. See the [Kodzius 2012](Other_Docs/kodzius2012.pdf) and [forensicGEM's work](Other_Docs/forensicGEM_Tissue_AppNote_TapeInhibition.pdf) for details.
 
 From those files:
 
-### Safe materials (any red bar above \~50 in Kodzius Fig. 3): (*1*)
+### Safe materials (any red bar above \~50 in [Kodzius Fig. 3](Other_Docs/kodzius2012.pdf)): (*1*)
 - polypropylene
 - PTFE
 - PDMS
