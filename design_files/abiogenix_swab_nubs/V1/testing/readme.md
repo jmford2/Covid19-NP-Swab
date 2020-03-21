@@ -2,6 +2,7 @@
 - swabs are quite flexible
 - can bend more than 180 degrees without breaking
 
+![](design_files/abiogenix_swab_nubs/V1/testing/swab_flexibility.jpeg)
 
 # Torsional Load (twisting)
 - shaft snapped off at head of bristle
