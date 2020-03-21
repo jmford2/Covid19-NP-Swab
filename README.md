@@ -34,6 +34,7 @@ Anything you find here is free for use for all.
 <img src="img/adult_np_swab_procedure.png" width=40%><img src="img/commercial-swab.png" width=20%><img src="img/copan_flocked_swab_micro_1.png" width=40%>
 
 <img src="img/copan_flocked_swab_macro.png" width="100%">
+(Click for larger image)
 
 <!--
 
