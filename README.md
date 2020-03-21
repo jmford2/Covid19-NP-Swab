@@ -31,9 +31,9 @@ Anything you find here is free for use for all.
 <a name="design"></a>
 ## Basic description of an NP swab
 
-<img src="img/adult_np_swab_procedure.png" width=40%><img src="img/commercial-swab.png" width=25%><img src="img/commercial-swabs.png" width=25%>
+<img src="img/adult_np_swab_procedure.png" width=40%><img src="img/commercial-swab.png" width=20%><img src="img/copan_flocked_swab_micro_1.png" width=40%>
 
-<img src="img/copan_flocked_swab_macro.png" width="59.5%"><img src="img/copan_flocked_swab_micro_1.png" width=38%>
+<img src="img/copan_flocked_swab_macro.png" width="100%">
 
 <!--
 
