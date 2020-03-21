@@ -160,7 +160,16 @@ As we get closer to having swabs, we will want a solution for packaging. Ideally
 
 Possibly will want to fork this process: more sterile for immunocompromised patients, less for others.
 
-Current best thought is to package manually in sterile hoods. Spread and cut plastic wrap, leave under UV light in hood (wil not destroy plastic on the timescales we are talking about), take swab out of ethanol and place horizontally on strip of plastic to dry. **When dry,** fold plastic over swab. Packing done.
+Current best thought is to package manually in sterile hoods:
+
+- begin with swabs in ethanol vat/bucket
+- spread and cut plastic wrap
+- leave under UV light in hood (*1*)
+- take swab out of ethanol and place horizontally on strip of plastic to dry
+- **When dry,** fold plastic over swab
+- packing done
+
+(*1*) UV is not expected to destroy plastic on timescales of under a few hours
 
 Thoughts on throughputting this?
 
