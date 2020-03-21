@@ -45,6 +45,15 @@ The bulb looks like it would be fluffy to the touch but it is not: the bristles 
 
 Often the shaft itself has a thin **neck**, for flexibility, and a thicker **handle**. The handle is often **scored**---a weak point in the shaft---where you can break it off so the bristled part stays in the vial; the handle is then thrown away.
 
+Helpful target measurements:
+
+- Diameter of head with bristles: 3mm
+- Diameter of head without bristles: \~2mm
+- Diameter of neck: 1mm
+- Diameter of handle: 2.5mm
+- Length of bulb: 15mm
+- Length that will be submerged in [transport medium](#pcr): \~30mm
+
 **Tl;dr: score at 7 cm from bulb tip.** The location of the score (distance from the bulb along the handle) must be smaller than the height of the vial you use. For example, for the vials for use with Copan 480C swabs, the breakpoint is 7cm; for [15-](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-5/p-193301) or [50-mL](https://www.fishersci.com/shop/products/falcon-50ml-conical-centrifuge-tubes-2/p-193321) conical tubes (of the kind used routinely in biomedical research and sold by many manufacturers), 11 cm will do. It is mildly easier for handling if the score is close to the height of the vial but the requirement is that it is less than the height.
 
 
@@ -69,7 +78,7 @@ For more technical requirements, see [Design Constraints](Other_Docs/Design%20Co
 <a name="not-reqs"></a>
 ## Anti-requirements: What's not required
 
--	Sterility. Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
+-	Sterility. Not a major concern for most uses; only for immunocompromised (in which case the ability to decontaminate by [autoclaving](https://en.wikipedia.org/wiki/Autoclave) or ethanol or isopropanol bath is needed). The air and the nose are already non-sterile and the PCR assay is specific enough to ignore most contaminants (as long as other Covid-19 contaminated things/people don’t come in contact with it and it doesn’t pick up PCR inhibitors)
 
 -	Labor intensive is ok, to fill short term needs. There are students and researchers out of school and lab who are willing to volunteer to hand-assemble these from inoculation loops, adhesive, and wicking substrate #studentArmy
 
