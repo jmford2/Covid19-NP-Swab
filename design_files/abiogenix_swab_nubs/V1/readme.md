@@ -1,5 +1,5 @@
-These swabs were modeled in Autodesk Fusion 360 and are available here
-- 
+These swabs were modeled in Autodesk Fusion 360
+- available here: https://a360.co/2Qyh2GE
 <img src="swab_nubs_V1.png" width=40%>
 
 # Nubs Surface Area
@@ -7,5 +7,5 @@ These swabs were modeled in Autodesk Fusion 360 and are available here
 
 # Nubs Break Point
 - shaft snapped off at head of bristle
-- TODO: weaken break-point area and strengthen briste-nubs interface 
-<img src="nubs_break_point_V1.png" width=40%>
+- TODO: weaken break-point area and strengthen briste-shaft interface 
+<img src="nubs_break_point_V1.png" width=80%>
