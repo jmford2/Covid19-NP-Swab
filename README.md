@@ -8,7 +8,7 @@ As clinical laboratories around the world have begun testing for Covid-19, we ha
 
 Because the crisis is **now,** the goal is to re-create versions of the swabs already in use (as opposed to creating better/fundamentally different redesigns).
 
-The files in this repo contain some information to get started. **This includes .stl files that you can modify/print (see the list of files above).**
+The files in this repo contain some information to get started. **This includes .stl files that you can modify/print (see [design_files](design_files/) above).**
 
 If anyone has any questions, please reach out to any of the contributors here or to Dr. Ramy Arnaout, MD, DPhil, at rarnaout@bidmc.harvard.edu.
 
