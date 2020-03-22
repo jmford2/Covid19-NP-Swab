@@ -256,7 +256,7 @@ We propose/are using a three-step testing procedure:
 
 ### Expert review
 
-There is no substitute for having a health professional who actively uses NP swabs evaluate your prototype. This is what we are doing.
+There is no substitute for having a health professional who actively uses NP swabs evaluate your prototype. If such an expert says it "looks good," that is enough to pass this test (see [Results](#results) below)
 
 Two frequently-asked questions are re: length and flexibility. For length, our current recommendation is 15cm. For flexibility: if you have a [swab to compare to](#acceptable-swabs), that is the best way to guage flexibility. If not: your swab should as flexible as the inside part of a standard Bic ball-point pen (the tube that contains the actual ink, when you take the pen apart).
 
