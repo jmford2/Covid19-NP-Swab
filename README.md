@@ -25,7 +25,8 @@ Anything you find here is free for use for all.
 - [Flock](#flock)
 - [Materials and adhesives](#adhesive)
 - [Packaging](#packaging)
-- [Testing](#testing)
+- [Testing methods](#testing)
+- [Results](#results)
 - [Contact](#contact)
 
 <a name="design"></a>
@@ -124,9 +125,8 @@ For more detail on ideas not yet investigated, including repurposing unrelated i
 
 The ability to print a swab complete with bristles or equivalent saves the steps for requiring adhesive and [flock](#flock). 
 
-Stereolithography 3D printed prototypes by OPT Industries look promising (see example bulbs, below---note in this approach the whole swab including bulb is printed at once, on their own DLP/SLA machines); we are testing materials now.
+Stereolithography 3D printed prototypes by **OPT Industries** look promising (see example bulbs, below---note in this approach the whole swab including bulb is printed at once, on their own DLP/SLA machines); we are testing materials now.
 <img src="img/carbon_formlabs_bristles.png" width=100%>
-
 
 
 
@@ -232,7 +232,7 @@ From those files:
 
 
 <a name="testing"></a>
-## Testing
+## Testing methods
 
 ### Flexibility
 
@@ -268,6 +268,46 @@ It is essential to confirm that nothing in the final product (material ± adhesi
 (*3*) An RNA extraction step [may not be required](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1)
 
 See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-diagnostic-testing-sars-cov-2) for speific testing details.
+
+
+<a name="results"></a>
+## Results
+
+As materials and designs (including existing swabs) get tested, we will record results here. Please organize entries as follows. If you need help [contact us](#contact).
+
+### Identifier
+This is a unique identifier, ideally including the source's name
+
+#### Date of test
+
+#### Test site
+E.g., BIDMC
+
+#### Picture
+Please take a high-resolution picture of the **entire** item provided.
+
+#### Material
+Please describe all (known) materials in the bulb head, including 
+
+#### Process
+Please include a brief description of the design process that an expert would understand well enough to reproduce. For repurposed swabs, write "commercial."
+
+#### Creator (contact info and company)
+How to contact the creator for questions/further development
+
+#### Link to stl and cad files
+Please send .stl and CAD files, which we will post.
+
+#### Test 1: NP swab user evaluation (eg an ID doc), with comments
+If passes, write "Pass". If fails, write "Fail" and give a brief reason why. Should be filled out by someone who has experience actually using NP swabs in a clinical context. Please leave the name of this person.
+
+#### Test 2: Collection test
+If a Gram stain of the (inner) cheek made from the swab shows material broadly consistent with our control, then write "Pass". If not, "Fail" and give reason (too abrasive, did not pick up material, etc.)
+
+#### Test 3: PCR compatibility (and which protocol used)
+As above, "Pass" vs. "Fail". Please indicate the protocol used. You can post the protocol in the Testing/ directory, and link to it here
+
+Please use the header structure used: easiest is to just copy the above, and paste entries below. Please be conscientious about this; it's helpful and saves everyone time.
 
 
 <a name="contact"></a>
