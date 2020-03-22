@@ -15,7 +15,7 @@ If anyone has any questions, please reach out to any of the contributors here or
 Anything you find here is free for use for all.
 
 
-## High-level summary, March 21:
+### High-level summary, March 21:
 
 We are pursuing three main approaches:
 - 3D printing [shafts](#design) and gluing [flock](#flock). We have good shaft designs modeled on the images below. Bottlenecks (1) [finding](#adhesive)/[testing](#testing) PCR-compatible glues. (2) High-throughput assembly and packaging. [Results](#results) should start appearing below.
