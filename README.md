@@ -259,11 +259,13 @@ It is essential to confirm that nothing in the final product (material ± adhesi
 - incubate bulb in 3mL Viral Transport Medium (VTM; [recipe courtesy IU](Other_Docs/VTM_IU_recipe.pdf)) overnight (12 hr)
 - spike the VTM with positive control (*1*)
 - aliquot 700µl for testing
-- run RT-PCR (*2*)
+- run RT-PCR (*2*) (*3*)
 
 (*1*) If you are working with clinical labs who have the bandwidth, they can use inactivated Covid-19 particles that are used clinically as the positive control any virus. If not, and you are/have access to colleagues in a virology lab working with encapsulated virus, that can be used. If not, then any mRNA.
 
-(*2*) Many protocols and reagents are proprietary, but many hospitals have developed their own laboratory-developed tests (LDTs) that may have made their protocols publicly available. If you find and [forward](#contact) we will post
+(*2*) Many protocols and reagents are proprietary, but many hospitals have developed their own laboratory-developed tests (LDTs) that may have made their protocols publicly available. If you find and [forward](#contact) we will post.
+
+(*3*) An RNA extraction step [may not be required](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1)
 
 See also [this FDA page](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-diagnostic-testing-sars-cov-2) for speific testing details.
 
