@@ -204,6 +204,7 @@ From those files:
 
 ### Unknown:
 - metals including steel and aluminum (in principle these stick to polymerase, but the effect size depends on the form factor so we don't know yet)
+- polycryl resin (we believe the monomers are not PCR safe, but if cured and washed could be ok; we will test)
 
 ### Safe adhesives (from Kodzius Fig. 3 and from forensicGEM document Fig. 1):
 - Wax (Tm 80C)
