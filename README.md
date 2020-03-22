@@ -235,11 +235,20 @@ From those files:
 
 ### Flexibility
 
-If you have a [swab to compare](#acceptable-swabs), that is the best way to guage flexibility.
+If you have a [swab to compare](#acceptable-swabs), that is the best way to guage flexibility. It should be about as flexible as the inside part of a standard Bic ball-point pen (the tube that contains the actual ink, when you take the pen apart)
 
-### Collection of material
+### Sufficient collection of material
 
-For collection of material, you can swirl against the inside of your cheek (make sure the swab is clean first), rub on a slide, do a [Gram stain](https://en.wikipedia.org/wiki/Gram_stain), and visualize under a microscope. The viral particles we are looking to collect are smaller than bacteria, but if you collect a fair number of bacteria, that is considered Ok for now (ask a microbiologist or microbiology tech, and we will provide a picture of what we think is acceptable when we can).
+For collection of material:
+
+- swirl against the inside of your cheek (make sure the swab is clean first)
+- rub on a slide
+- perform a [Gram stain](https://en.wikipedia.org/wiki/Gram_stain)
+- visualize under a microscope
+- take picture through ocular
+- compare picture to control we made using an actual NP swab (to be posted soon)
+
+The viral particles we are looking to collect are smaller than bacteria, but if you collect a fair number of bacteria, that is considered Ok for now (ask a microbiologist or microbiology tech, and we will provide a picture of what we think is acceptable when we can).
 
 <a name="pcr"></a>
 ### PCR compatibility
