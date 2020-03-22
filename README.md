@@ -4,7 +4,7 @@
 
 As clinical laboratories around the world have begun testing for Covid-19, we have encountered a new crisis: a shortage of the swabs required to obtain the necessary sample. These are called nasopharyngeal swabs, or NP swabs for short.
 
-**The goal of this repository is sharing information required to manufacture NP swabs locally/everywhere at volumes of thousands per day, until standard manufacturers can make and deliver more.**
+**The goal of this repository is sharing [methods](#design) and [results](#results) required to manufacture NP swabs locally/everywhere at volumes of thousands per day, until standard manufacturers can make and deliver more.**
 
 Because the crisis is **now,** the goal is to re-create versions of the swabs already in use (as opposed to creating better/fundamentally different redesigns).
 
