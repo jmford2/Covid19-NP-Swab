@@ -1,4 +1,4 @@
-*Last updated: March 21, 2020 14:30 ET*
+*Last updated: March 21, 2020 20:00 ET*
 
 # Making NP swabs
 
