@@ -307,7 +307,7 @@ If a Gram stain of the (inner) cheek made from the swab shows material broadly c
 #### Test 3: PCR compatibility (and which protocol used)
 As above, "Pass" vs. "Fail". Please indicate the protocol used. You can post the protocol in the Testing/ directory, and link to it here
 
-Please use the header structure used: easiest is to just copy the above, and paste entries below. Please be conscientious about this; it's helpful and saves everyone time.
+Please use the header structure used: easiest is to just copy the above, and paste entries below. Please be conscientious about this; it's helpful and saves everyone time. We will try to turn this into a sortable table in the future.
 
 
 <a name="contact"></a>
