@@ -1,4 +1,4 @@
-These swabs were printed using HP MJF 3D printing technology at Fathom Studios in Oakland Ca.
+These swabs were printed using HP MJF 3D printing technology using PA12 material at Fathom Studios in Oakland Ca.
 
 # Flexibility
 - swabs are quite flexible
