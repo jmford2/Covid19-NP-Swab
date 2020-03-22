@@ -299,7 +299,7 @@ E.g., BIDMC
 Please take a high-resolution picture of the **entire** item provided.
 
 #### Material
-Please describe all (known) materials in the bulb head, including 
+Please describe all (known) materials in the bulb head, including plastic, any adhesive, and any flock
 
 #### Process
 Please include a brief description of the design process that an expert would understand well enough to reproduce. For repurposed swabs, write "commercial."
