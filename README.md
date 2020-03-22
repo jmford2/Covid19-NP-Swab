@@ -41,7 +41,7 @@ For efficiency, we strongly suggest you find local partners either in addition o
 - [Flock](#flock)
 - [Materials and adhesives](#adhesive)
 - [Packaging](#packaging)
-- [Testing methods](#testing)
+- [Testing procedures](#testing)
 - [Results](#results)
 - [Contact](#contact)
 
@@ -248,7 +248,7 @@ From those files:
 
 
 <a name="testing"></a>
-## Testing methods
+## Testing procedures
 
 We propose/are using a three-step testing procedure:
 
