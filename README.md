@@ -26,7 +26,7 @@ We are pursuing three main approaches:
 
 We will report results as we have them below.
 
-If you want us to test swab materials, you can overnight them to Dr. Ramy Arnaout, MD DPhil, 508 Heath Street #2, Chestnut Hill, MA 02467 (note we are setting up dedicated 24/7 receiving at the hospital so this address will change). For efficiency, strongly suggest you find local partners either in addition or instead for [testing](#testing) and ask one of [us](#contact) for write access to share your [results](#results) here on the repo.
+If you want us to test swab materials at BIDMC we are happy to, you can overnight them to Dr. Ramy Arnaout, MD DPhil, 508 Heath Street #2, Chestnut Hill, MA 02467 (note we are setting up dedicated 24/7 receiving at the hospital so this address will change). For efficiency, strongly suggest you find local partners either in addition or instead for [testing](#testing) and ask one of [us](#contact) for write access to share your [results](#results) here on the repo.
 
 
 ## Contents
