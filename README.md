@@ -18,7 +18,7 @@ Anything you find here is free for use for all.
 ## High-level summary, March 21:
 
 We are pursuing three main approaches:
-- 3D printing [shafts](#design) and gluing [flock](#flock). We have good shaft designs modeled on the images below. Bottlenecks (1) [finding](#adhesive)/[testing](#testing) PCR-compatible glues. (2) High-throughput assembly and packaging. [Results](#results) should start appearing below in the next 36h.
+- 3D printing [shafts](#design) and gluing [flock](#flock). We have good shaft designs modeled on the images below. Bottlenecks (1) [finding](#adhesive)/[testing](#testing) PCR-compatible glues. (2) High-throughput assembly and packaging. [Results](#results) should start appearing below.
 
 - 3D printing all-in-one swab (meaning printing bristles together with/on shaft). We have promising designs (something like the below; stl/CAD files coming) but need to iterate to get to something usable; bottleneck is materials testing.
 
