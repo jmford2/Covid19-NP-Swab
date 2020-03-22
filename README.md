@@ -157,7 +157,7 @@ Stereolithography 3D printed prototypes by **OPT Industries** look promising (se
 
 - In general acrylic is used as the adhesive for flock, but be aware that acrylic is a **known PCR inhibitor** (see below). Decision point is rinse a lot to remove loose acrylic vs. just use something safer. Apparently Elmer's has something of the same problem.
 
-- The only colors we should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that is assumed to be PCR-safe; white has titanium inside the fiber but not on the surface so is more likely PCR safe. (White is the purest nylon.) Colored nylons have various ionic or covalent groups on the outside, which are unnecessary complications.
+- The only colors you should consider for the nylon are black and white, with preference for white. Black has some inorganic compound that is assumed to be PCR-safe; white has titanium inside the fiber but not on the surface so is more likely PCR safe. (White is the purest nylon.) Colored nylons have various ionic or covalent groups on the outside, which are unnecessary complications.
 
 - Rayon is also safe to use
 
